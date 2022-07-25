@@ -1,0 +1,4 @@
+list any 3 fruits:
+Mulberry
+Watermelon
+Mango
