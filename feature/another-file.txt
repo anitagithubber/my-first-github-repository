@@ -3,3 +3,6 @@ This line edited while BR-2 where no remote branch created for tracking branch.
 this file just modified locally
 
 this line added while doing local branch creation which is not tracking branch
+
+
+modfying to push after BR-2 branch as tracking branch.
